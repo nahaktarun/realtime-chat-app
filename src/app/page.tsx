@@ -6,7 +6,7 @@ export default async function Home() {
 
   return (
     <div>
-      <Button> Hello </Button>
+      <Button variant="ghost"> Hello </Button>
     </div>
   );
 }
